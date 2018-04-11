@@ -36,6 +36,7 @@ public class KnnReg {
 
     public String getPurposeString() {
         return "kNN: special.";
+        
     }
 
     protected Instances window;
