@@ -97,6 +97,7 @@ public class KnnReg {
             //e.printStackTrace();
             //System.exit(1);
             return 1;
+            
         }
 
         return mean ;
